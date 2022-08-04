@@ -1,0 +1,10 @@
+.parent{
+    text-align: center;
+    font-size: 40px;
+}
+.AA::selection{
+    font-size: 20px;
+}
+.AA{
+    background-color: chartreuse;
+}
